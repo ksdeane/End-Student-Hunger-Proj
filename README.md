@@ -3,7 +3,7 @@ Website for the purpose of social good; developed in 2021 as a part of the GWC S
 
 FILES
 -------------------------
-- README.md: this file<br>
+- README.md: this file
 - index.html: homepage content
 - ourgoal.html: contains content for the tab decribing the goal of the website, which is to bring attention to a social justice issue
 - statistics.html: contains content for the fact generator tab
